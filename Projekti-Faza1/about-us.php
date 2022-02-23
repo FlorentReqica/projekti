@@ -5,8 +5,11 @@
     <link rel="stylesheet" href="css/about-us.css">
 </head>
 <body>
-    
+        <?php 
+            $x=include 'header.php'
+        ?>
 <div class="section" id="about-us">
+       
     <div class="permbajtja">
         <div class="content-section">
             <div class="titull">

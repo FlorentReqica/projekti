@@ -12,7 +12,7 @@
     width: 80%;
     display: block;
     margin:auto;
-    padding-top: 100px;
+    padding-top: 150px;
 }
 .content-section{
     float: left;
@@ -32,7 +32,7 @@
 }
 .content-section .content-about h3{
     margin-top: 20px;
-    color:#5d5d5d;
+    color:#5e5b5b;
     font-size: 21px;
 }
 .content-section .content-about p{

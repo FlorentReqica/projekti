@@ -6,21 +6,9 @@
     <link rel="stylesheet" href="css/produktet.css">
 </head>
 <body>
-    <div class="heading">
-        <div class="logo">
-           <a href="index.html"> <h1 id="delta">DELTA</h1> </a>
-        </div>
-        
-        <div class="menu-bar">
-            <ul>
-                <li><a id="p" href="produktet.html">Produktet</a> </li>
-                <li><a href="about-us.html">About Us</a></li>
-                <li> <a href="porosit.html">Porosit</a></li>
-                <li> <a href="login-regster.html">Log In</a> </li>
-            </ul>
-        </div>
-    </div>
-
+        <?php 
+            $x=include 'header.php'
+        ?>
     <div id="Dergo-Produktet" class="produktet">
 
 

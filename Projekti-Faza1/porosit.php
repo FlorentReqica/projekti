@@ -7,6 +7,9 @@
 </head>
 <body>
     <div class="blej" id="porosit">
+    <?php 
+            $x=include 'header.php'
+        ?>
         <div class="produktet-heading">
             <h1>POROSIT KETU</h1>
         </div>

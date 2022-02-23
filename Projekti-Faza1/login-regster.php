@@ -5,6 +5,9 @@
     <link rel="stylesheet" href="css/login-register.css">
 </head>
 <body>
+<?php 
+            $x=include 'header.php'
+        ?>
     <div class="login-register" id="login">
         <div class="container">
             <form action="#" class="login active">

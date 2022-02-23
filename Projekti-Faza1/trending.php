@@ -7,6 +7,9 @@
 <body>
     <div class="trending">
 
+        <?php 
+            $x=include 'header.php'
+        ?>
         <div class="titulli">
             <h1>Top Trending Products</h1>
         </div>
